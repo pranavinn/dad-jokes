@@ -1,0 +1,67 @@
+/* Dark Theme for JokeCard Component */
+.joke-card {
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    background-color: #2d354a; /* Dark blue background */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    color: #f0f9ff; /* Light text for contrast */
+  }
+  
+  .joke-card h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #a9f717; /* Cyan color for the title */
+  }
+  
+  .joke {
+    font-size: 1.5rem;
+    margin: 20px 0;
+    font-style: italic;
+  }
+  
+  .buttons button {
+    margin: 10px;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  /* Button styles */
+  .buttons button:nth-child(1) {
+    background-color: #2563eb; /* Blue */
+    color: white;
+  }
+  
+  .buttons button:nth-child(2) {
+    background-color: #9333ea; /* Purple */
+    color: white;
+  }
+  
+  .buttons button:nth-child(3) {
+    background-color: #10b981; /* Green */
+    color: white;
+  }
+  
+  .buttons button:nth-child(4) {
+    background-color: #f43f5e; /* Pink */
+    color: white;
+  }
+  
+  /* Hover effects */
+  .buttons button:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+  }
+  
+  /* Laugh counter style */
+  .laugh-counter {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #fbbf24; /* Yellow for emphasis */
+  }
+  
