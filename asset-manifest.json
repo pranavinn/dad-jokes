@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pranavinn/dad-jokes/static/css/main.f6e2c9b6.css",
+    "main.js": "/pranavinn/dad-jokes/static/js/main.5eb221a5.js",
+    "static/js/453.e7d727b1.chunk.js": "/pranavinn/dad-jokes/static/js/453.e7d727b1.chunk.js",
+    "index.html": "/pranavinn/dad-jokes/index.html",
+    "main.f6e2c9b6.css.map": "/pranavinn/dad-jokes/static/css/main.f6e2c9b6.css.map",
+    "main.5eb221a5.js.map": "/pranavinn/dad-jokes/static/js/main.5eb221a5.js.map",
+    "453.e7d727b1.chunk.js.map": "/pranavinn/dad-jokes/static/js/453.e7d727b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e2c9b6.css",
+    "static/js/main.5eb221a5.js"
+  ]
+}
